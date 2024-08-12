@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PDCurses on Ahmed Yasser - Portfolio</title>
+    <link>//localhost:1313/tags/pdcurses/</link>
+    <description>Recent content in PDCurses on Ahmed Yasser - Portfolio</description>
+    <image>
+      <title>Ahmed Yasser - Portfolio</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/pdcurses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Text Invaders</title>
+      <link>//localhost:1313/projects/text_invaders/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/text_invaders/</guid>
+      <description>Text Invaders (GitHub) A classic text-based space invaders game written entirely in C++ using PDCurses.
+Building the Project The project only supports x86 Windows for now!
+Clone the repository. Open Space Invaders.sln and make sure the platform is x86 then hit F5. An error will appear that pdcurses.dll is missing. Extract pdcurses.zip and copy pdcurses.dll from the extracted folder. Navigate to the bin/Win32/Your-Configuration/ folder and paste the dll. Open Space Invaders.</description>
+    </item>
+  </channel>
+</rss>

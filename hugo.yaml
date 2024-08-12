@@ -1,0 +1,129 @@
+baseURL: ""
+languageCode: en-us
+title: Ahmed Yasser - Portfolio
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Ahmed Yasser - Portfolio
+  description: "Ahmed Yasser - Portfolio"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true
+    title: "Hi, I’m Ahmed Yasser" # optional default will be site title
+    subtitle: "A civil engineer turned game progammer by my love for video games and creating experiences. I'm also passionate about graphics and engine programming."
+    imageUrl: "Images/me1.jpeg" # optional
+    imageWidth: 256 # custom size
+    imageHeight: 256 # custom size
+    buttons:
+      - name: Projects
+        url: "/projects"
+      - name: Resume
+        url: https://drive.google.com/file/d/17j6gjGPvbp7e3ARUzhlxvM50rHDWNYXa/view?usp=drive_link
+
+  socialIcons: # optional
+    - name: "email"
+      url: mailto:ahmedyaserabbas@gmail.com
+    - name: "github"
+      url: "https://github.com/ahmedyabbas"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/ahmedyabbas/"
+    - name: "x"
+      url: "https://x.com/SoskaaaY"
+    - name: "discord"
+      url: "https://discord.com/users/457352822221176832"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+    linkFullImages: true
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 10
+    - identifier: resume
+      name: Resume
+      url: https://drive.google.com/file/d/17j6gjGPvbp7e3ARUzhlxvM50rHDWNYXa/view?usp=drive_link
+      weight: 20
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai

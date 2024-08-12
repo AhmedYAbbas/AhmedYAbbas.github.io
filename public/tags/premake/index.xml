@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Premake on Ahmed Yasser - Portfolio</title>
+    <link>//localhost:1313/tags/premake/</link>
+    <description>Recent content in Premake on Ahmed Yasser - Portfolio</description>
+    <image>
+      <title>Ahmed Yasser - Portfolio</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/premake/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arcade</title>
+      <link>//localhost:1313/projects/arcade/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/arcade/</guid>
+      <description>Arcade Game Collection (GitHub) Welcome to the Arcade game collection! This project features four classic arcade games: Tetris, Asteroids, Breakout, and Pacman. Whether you’re a fan of retro gaming or just looking for some nostalgic fun, this collection has something for everyone.
+Made using SDL2 and C++.
+Project Structure This is a Core/App project architecture. There are two included projects - one called Core, and one called Arcade(App). Premake is used to generate project files.</description>
+    </item>
+    <item>
+      <title>Timefall</title>
+      <link>//localhost:1313/projects/timefall/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/timefall/</guid>
+      <description>Timefall (GitHub) Timefall Enigne is a work in progress inspired by The Cherno&amp;rsquo;s Game Engine Series. The goal of this project is to create a powerful and flexible game engine that can be used to develop a wide range of games.
+Current Status As mentioned earlier, this project is in its early work-in-progress stage. I have successfully implemented some fundamental components, including:
+Events: Including MouseEvents, KeyboardEvents, WindowEvents. Logging: Basic Logging system that prints to the console.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Programming on Ahmed Yasser - Portfolio</title>
+    <link>//localhost:1313/categories/programming/</link>
+    <description>Recent content in Programming on Ahmed Yasser - Portfolio</description>
+    <image>
+      <title>Ahmed Yasser - Portfolio</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arcade</title>
+      <link>//localhost:1313/projects/arcade/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/arcade/</guid>
+      <description>Arcade Game Collection (GitHub) Welcome to the Arcade game collection! This project features four classic arcade games: Tetris, Asteroids, Breakout, and Pacman. Whether you’re a fan of retro gaming or just looking for some nostalgic fun, this collection has something for everyone.
+Made using SDL2 and C++.
+Project Structure This is a Core/App project architecture. There are two included projects - one called Core, and one called Arcade(App). Premake is used to generate project files.</description>
+    </item>
+    <item>
+      <title>Text Invaders</title>
+      <link>//localhost:1313/projects/text_invaders/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/text_invaders/</guid>
+      <description>Text Invaders (GitHub) A classic text-based space invaders game written entirely in C++ using PDCurses.
+Building the Project The project only supports x86 Windows for now!
+Clone the repository. Open Space Invaders.sln and make sure the platform is x86 then hit F5. An error will appear that pdcurses.dll is missing. Extract pdcurses.zip and copy pdcurses.dll from the extracted folder. Navigate to the bin/Win32/Your-Configuration/ folder and paste the dll. Open Space Invaders.</description>
+    </item>
+    <item>
+      <title>Battleship</title>
+      <link>//localhost:1313/projects/battleship/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/battleship/</guid>
+      <description>Battleship (GitHub) A classic text-based battleship game written entirely in C++. You can play the game against your friend or against a not-so-smart AI.
+Building the project Open Battleship.sln. Hit F5 on your keyboard. Enjoy! </description>
+    </item>
+    <item>
+      <title>Light Years</title>
+      <link>//localhost:1313/projects/light_years/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/light_years/</guid>
+      <description>Light Years (GitHub) A space-shooter action game/game engine built with C++ and SFML.​
+Building the Project Clone the repository to your local machine. Navigate to the root directory of the project. Create a new directory named build. Open Command Prompt (CMD) and change the directory to the newly created build folder. In CMD, type the following command to build the project: cmake -S .. -B . Once the build is successful, you will find the vs solution in the build directory.</description>
+    </item>
+    <item>
+      <title>Timefall</title>
+      <link>//localhost:1313/projects/timefall/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/timefall/</guid>
+      <description>Timefall (GitHub) Timefall Enigne is a work in progress inspired by The Cherno&amp;rsquo;s Game Engine Series. The goal of this project is to create a powerful and flexible game engine that can be used to develop a wide range of games.
+Current Status As mentioned earlier, this project is in its early work-in-progress stage. I have successfully implemented some fundamental components, including:
+Events: Including MouseEvents, KeyboardEvents, WindowEvents. Logging: Basic Logging system that prints to the console.</description>
+    </item>
+  </channel>
+</rss>
