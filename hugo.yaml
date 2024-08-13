@@ -1,7 +1,7 @@
 baseURL: ""
 languageCode: en-us
 title: Ahmed Yasser - Portfolio
-paginate: 8
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -91,7 +91,7 @@ params:
 
   cover:
     hidden: false # hide everywhere but not in structured data
-    hiddenInList: false # hide on list pages and home
+    hiddenInList: true # hide on list pages and home
     hiddenInSingle: false # hide on single page
     linkFullImages: true
 
