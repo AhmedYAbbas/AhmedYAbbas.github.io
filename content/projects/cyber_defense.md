@@ -10,7 +10,7 @@ categories: [Game Engines]
 ---
 
 # [Cyber Defense (GitHub)](https://github.com/AhmedYAbbas/Cyber-Defense/tree/Development)
-An online multiplayer tower defense game to raise awareness about deferent cybersecurity topics (Malware).
+An online multiplayer tower defense game to raise awareness about different cybersecurity topics (Malware).
 
 [![Watch the video](https://img.youtube.com/vi/4zejgNG3cjE/hqdefault.jpg)](https://www.youtube.com/embed/4zejgNG3cjE)
 
