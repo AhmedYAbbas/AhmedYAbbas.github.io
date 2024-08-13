@@ -3,8 +3,6 @@ title: 'Arcade'
 date: "2024-06-11"
 cover: 
     image: Images/arcade.png
-    imageWidth: 800
-    imageHeight: 600
     alt: 'Arcade'
     caption: 'Arcade'
 tags: ["C++", "SDL2", "Premake"]
