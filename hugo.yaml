@@ -1,7 +1,7 @@
 baseURL: ""
 languageCode: en-us
 title: Ahmed Yasser - Portfolio
-paginate: 5
+paginate: 8
 theme: PaperMod
 
 enableRobotsTXT: true
