@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ahmed Yasser - Portfolio</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Ahmed Yasser - Portfolio</description>
     <image>
       <title>Ahmed Yasser - Portfolio</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install / Update PaperMod</title>
-      <link>/posts/papermod/papermod-installation/</link>
+      <link>//localhost:1313/posts/papermod/papermod-installation/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/papermod/papermod-installation/</guid>
+      <guid>//localhost:1313/posts/papermod/papermod-installation/</guid>
       <description>Read aboout Install and Update instructions and sampled configuration templates</description>
     </item>
     <item>
       <title>Features / Mods</title>
-      <link>/posts/papermod/papermod-features/</link>
+      <link>//localhost:1313/posts/papermod/papermod-features/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/posts/papermod/papermod-features/</guid>
+      <guid>//localhost:1313/posts/papermod/papermod-features/</guid>
       <description>Learn About All Features in PaperMod</description>
     </item>
     <item>
       <title>Markdown Syntax Guide For L2</title>
-      <link>/posts/markdown-syntax.fr/</link>
+      <link>//localhost:1313/posts/markdown-syntax.fr/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/posts/markdown-syntax.fr/</guid>
+      <guid>//localhost:1313/posts/markdown-syntax.fr/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Markdown Syntax Guide For RTL</title>
-      <link>/posts/markdown-syntax.fa/</link>
+      <link>//localhost:1313/posts/markdown-syntax.fa/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/posts/markdown-syntax.fa/</guid>
+      <guid>//localhost:1313/posts/markdown-syntax.fa/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Arcade</title>
-      <link>/projects/arcade/</link>
+      <link>//localhost:1313/projects/arcade/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/projects/arcade/</guid>
+      <guid>//localhost:1313/projects/arcade/</guid>
       <description>&lt;h1 id=&#34;arcade-game-collection-githubhttpsgithubcomahmedyabbasarcade&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Arcade&#34;&gt;Arcade Game Collection (GitHub)&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;Welcome to the Arcade game collection! This project features four classic arcade games: Tetris, Asteroids, Breakout, and Pacman. Whether you’re a fan of retro gaming or just looking for some nostalgic fun, this collection has something for everyone.&lt;/p&gt;
 &lt;p&gt;Made using SDL2 and C++.&lt;/p&gt;
@@ -56,9 +56,9 @@ Core builds into a static library and is meant to contain common code intended f
     </item>
     <item>
       <title>Text Invaders</title>
-      <link>/projects/text_invaders/</link>
+      <link>//localhost:1313/projects/text_invaders/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>/projects/text_invaders/</guid>
+      <guid>//localhost:1313/projects/text_invaders/</guid>
       <description>&lt;h1 id=&#34;text-invaders-githubhttpsgithubcomahmedyabbastext-invaders&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Text-Invaders&#34;&gt;Text Invaders (GitHub)&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;A classic text-based space invaders game written entirely in C++ using PDCurses.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/FG-AP8WulY4&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/FG-AP8WulY4/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
@@ -93,9 +93,9 @@ Core builds into a static library and is meant to contain common code intended f
     </item>
     <item>
       <title>Battleship</title>
-      <link>/projects/battleship/</link>
+      <link>//localhost:1313/projects/battleship/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-      <guid>/projects/battleship/</guid>
+      <guid>//localhost:1313/projects/battleship/</guid>
       <description>&lt;h1 id=&#34;battleship-githubhttpsgithubcomahmedyabbasbattleship&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Battleship&#34;&gt;Battleship (GitHub)&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;A classic text-based battleship game written entirely in C++. You can play the game against your friend or against a not-so-smart AI.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/rx_0r-vypxQ&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/rx_0r-vypxQ/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
@@ -110,9 +110,9 @@ Core builds into a static library and is meant to contain common code intended f
     </item>
     <item>
       <title>Light Years</title>
-      <link>/projects/light_years/</link>
+      <link>//localhost:1313/projects/light_years/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/projects/light_years/</guid>
+      <guid>//localhost:1313/projects/light_years/</guid>
       <description>&lt;h1 id=&#34;light-years-githubhttpsgithubcomahmedyabbaslight-years&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Light-Years&#34;&gt;Light Years (GitHub)&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;A space-shooter action game/game engine built with C++ and SFML.​&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/yFh2rjWwgo4&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/yFh2rjWwgo4/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
@@ -136,9 +136,9 @@ Core builds into a static library and is meant to contain common code intended f
     </item>
     <item>
       <title>City Building</title>
-      <link>/projects/city_building/</link>
+      <link>//localhost:1313/projects/city_building/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/projects/city_building/</guid>
+      <guid>//localhost:1313/projects/city_building/</guid>
       <description>&lt;h1 id=&#34;city-building-githubhttpsgithubcomahmedyabbasue53-city-builder&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/UE5.3-City-Builder&#34;&gt;City Building (GitHub)&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;A work-in-progress city building game prototype in UE5.3. It&amp;rsquo;s a recreation for &lt;a href=&#34;https://www.youtube.com/playlist?list=PLFYGCCDpMHmHJwhIRY6qNumAts--W8bTy&#34;&gt;The Game Dev Channel&amp;rsquo;s City Building Playlist&lt;/a&gt; but using C++ instead of Blueprints.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/RqDowQ9bURY&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/RqDowQ9bURY/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
@@ -156,53 +156,53 @@ Core builds into a static library and is meant to contain common code intended f
     </item>
     <item>
       <title>Thor</title>
-      <link>/projects/thor/</link>
+      <link>//localhost:1313/projects/thor/</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/projects/thor/</guid>
+      <guid>//localhost:1313/projects/thor/</guid>
       <description>&lt;h1 id=&#34;thor-hammer-mechanics-githubhttpsgithubcomahmedyabbasthor-hammer-mechanics&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Thor-Hammer-Mechanics&#34;&gt;Thor-Hammer-Mechanics (GitHub)&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;Thor&amp;rsquo;s hammer mechanics in unreal engine 5 using blueprint&lt;/p&gt;
 &lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5X7XcN8TM74&#34; title=&#34;Thor - Demo&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/5X7XcN8TM74/0.jpg&#34; alt=&#34;Thor - Demo&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;mjolnir-hammer&#34;&gt;Mjolnir (Hammer)&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Mjolnir1.png&#34; alt=&#34;Mjolnir1&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Mjolnir1.png&#34; alt=&#34;Mjolnir1&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Mjolnir2.png&#34; alt=&#34;Mjolnir2&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Mjolnir2.png&#34; alt=&#34;Mjolnir2&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Mjolnir3.png&#34; alt=&#34;Mjolnir3&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Mjolnir3.png&#34; alt=&#34;Mjolnir3&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Mjolnir4.png&#34; alt=&#34;Mjolnir4&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Mjolnir4.png&#34; alt=&#34;Mjolnir4&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Mjolnir5.png&#34; alt=&#34;Mjolnir5&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Mjolnir5.png&#34; alt=&#34;Mjolnir5&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Mjolnir6.png&#34; alt=&#34;Mjolnir6&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Mjolnir6.png&#34; alt=&#34;Mjolnir6&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Mjolnir7.png&#34; alt=&#34;Mjolnir7&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Mjolnir7.png&#34; alt=&#34;Mjolnir7&#34;  /&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;thor&#34;&gt;Thor&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Thor1.png&#34; alt=&#34;Thor1&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Thor1.png&#34; alt=&#34;Thor1&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Thor2.png&#34; alt=&#34;Thor2&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Thor2.png&#34; alt=&#34;Thor2&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Thor3.png&#34; alt=&#34;Thor3&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Thor3.png&#34; alt=&#34;Thor3&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Thor4.png&#34; alt=&#34;Thor4&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Thor4.png&#34; alt=&#34;Thor4&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Thor5.png&#34; alt=&#34;Thor5&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Thor5.png&#34; alt=&#34;Thor5&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Thor6.png&#34; alt=&#34;Thor6&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Thor6.png&#34; alt=&#34;Thor6&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Thor7.png&#34; alt=&#34;Thor7&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Thor7.png&#34; alt=&#34;Thor7&#34;  /&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;giant-enemy&#34;&gt;Giant (Enemy)&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Enemy1.png&#34; alt=&#34;Enemy1&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Enemy1.png&#34; alt=&#34;Enemy1&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>Timefall</title>
-      <link>/projects/timefall/</link>
+      <link>//localhost:1313/projects/timefall/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/projects/timefall/</guid>
+      <guid>//localhost:1313/projects/timefall/</guid>
       <description>&lt;h2 id=&#34;timefall-githubhttpsgithubcomahmedyabbastimefall&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Timefall&#34;&gt;Timefall (GitHub)&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Timefall Enigne is a work in progress inspired by &lt;a href=&#34;https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT&#34;&gt;The Cherno&amp;rsquo;s Game Engine Series&lt;/a&gt;. The goal of this project is to create a powerful and flexible game engine that can be used to develop a wide range of games.&lt;/p&gt;
 &lt;h2 id=&#34;current-status&#34;&gt;Current Status&lt;/h2&gt;
@@ -221,9 +221,9 @@ Core builds into a static library and is meant to contain common code intended f
     </item>
     <item>
       <title>Cyber Defense</title>
-      <link>/projects/cyber_defense/</link>
+      <link>//localhost:1313/projects/cyber_defense/</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/projects/cyber_defense/</guid>
+      <guid>//localhost:1313/projects/cyber_defense/</guid>
       <description>&lt;h1 id=&#34;cyber-defense-githubhttpsgithubcomahmedyabbascyber-defensetreedevelopment&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Cyber-Defense/tree/Development&#34;&gt;Cyber Defense (GitHub)&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;An online multiplayer tower defense game to raise awareness about different cybersecurity topics (Malware).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/4zejgNG3cjE&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/4zejgNG3cjE/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
@@ -241,44 +241,44 @@ Core builds into a static library and is meant to contain common code intended f
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>/posts/markdown-syntax/</link>
+      <link>//localhost:1313/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/posts/markdown-syntax/</guid>
+      <guid>//localhost:1313/posts/markdown-syntax/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Code Syntax Guide</title>
-      <link>/posts/code_syntax/</link>
+      <link>//localhost:1313/posts/code_syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/posts/code_syntax/</guid>
+      <guid>//localhost:1313/posts/code_syntax/</guid>
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Example Post</title>
-      <link>/posts/example/</link>
+      <link>//localhost:1313/posts/example/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/posts/example/</guid>
+      <guid>//localhost:1313/posts/example/</guid>
       <description>A brief description of Example Shortcodes</description>
     </item>
     <item>
       <title>Rich Content and Shortcodes</title>
-      <link>/posts/rich-content/</link>
+      <link>//localhost:1313/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/posts/rich-content/</guid>
+      <guid>//localhost:1313/posts/rich-content/</guid>
       <description>A brief description of Hugo Shortcodes</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>/posts/math-typesetting/</link>
+      <link>//localhost:1313/posts/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/posts/math-typesetting/</guid>
+      <guid>//localhost:1313/posts/math-typesetting/</guid>
       <description>A brief guide to setup KaTeX</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>/posts/emoji-support/</link>
+      <link>//localhost:1313/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/posts/emoji-support/</guid>
+      <guid>//localhost:1313/posts/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
     </item>
   </channel>
