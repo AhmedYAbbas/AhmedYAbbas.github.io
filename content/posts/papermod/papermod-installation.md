@@ -180,7 +180,7 @@ You can go through few videos which are available on YouTube for getting to know
 ```yml
 baseURL: "https://examplesite.com/"
 title: ExampleSite
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true

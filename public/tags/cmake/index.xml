@@ -2,24 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CMake on Ahmed Yasser - Portfolio</title>
-    <link>//localhost:1313/tags/cmake/</link>
+    <link>/tags/cmake/</link>
     <description>Recent content in CMake on Ahmed Yasser - Portfolio</description>
     <image>
       <title>Ahmed Yasser - Portfolio</title>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/cmake/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/cmake/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Light Years</title>
-      <link>//localhost:1313/projects/light_years/</link>
+      <link>/projects/light_years/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/light_years/</guid>
-      <description>Light Years (GitHub) A space-shooter action game/game engine built with C++ and SFML.​
-Building the Project Clone the repository to your local machine. Navigate to the root directory of the project. Create a new directory named build. Open Command Prompt (CMD) and change the directory to the newly created build folder. In CMD, type the following command to build the project: cmake -S .. -B . Once the build is successful, you will find the vs solution in the build directory.</description>
+      <guid>/projects/light_years/</guid>
+      <description>&lt;h1 id=&#34;light-years-githubhttpsgithubcomahmedyabbaslight-years&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Light-Years&#34;&gt;Light Years (GitHub)&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;A space-shooter action game/game engine built with C++ and SFML.​&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/yFh2rjWwgo4&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/yFh2rjWwgo4/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;building-the-project&#34;&gt;Building the Project&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Clone the repository to your local machine.&lt;/li&gt;
+&lt;li&gt;Navigate to the root directory of the project.&lt;/li&gt;
+&lt;li&gt;Create a new directory named &lt;code&gt;build&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Open Command Prompt (CMD) and change the directory to the newly created &lt;code&gt;build&lt;/code&gt; folder.&lt;/li&gt;
+&lt;li&gt;In CMD, type the following command to build the project: &lt;code&gt;cmake -S .. -B .&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Once the build is successful, you will find the vs solution in the &lt;code&gt;build&lt;/code&gt; directory.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;WASD keys for movement.&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;Space&amp;rsquo; key for firing.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

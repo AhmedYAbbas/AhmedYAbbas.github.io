@@ -1,8 +1,10 @@
 baseURL: ""
 languageCode: en-us
 title: Ahmed Yasser - Portfolio
-paginate: 10
+pagination.pagerSize: 10
 theme: PaperMod
+
+ignoreLogs: ['warning-goldmark-raw-html']
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -68,6 +70,8 @@ params:
         url: "/projects"
       - name: Resume
         url: https://drive.google.com/file/d/17j6gjGPvbp7e3ARUzhlxvM50rHDWNYXa/view?usp=drive_link
+      - name: PDF Portfolio
+        url: https://drive.google.com/file/d/1yUCGd93nzvC5dHGBnElLmHFSDHgtmn9J/view?usp=drive_link
 
   socialIcons: # optional
     - name: "email"
@@ -116,6 +120,10 @@ menu:
       name: Resume
       url: https://drive.google.com/file/d/17j6gjGPvbp7e3ARUzhlxvM50rHDWNYXa/view?usp=drive_link
       weight: 20
+    - identifier: pdf portfolio
+      name: PDF Portfolio
+      url: https://drive.google.com/file/d/1yUCGd93nzvC5dHGBnElLmHFSDHgtmn9J/view?usp=drive_link
+      weight: 30
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

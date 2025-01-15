@@ -2,76 +2,214 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Ahmed Yasser - Portfolio</title>
-    <link>//localhost:1313/projects/</link>
+    <link>/projects/</link>
     <description>Recent content in Projects on Ahmed Yasser - Portfolio</description>
     <image>
       <title>Ahmed Yasser - Portfolio</title>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arcade</title>
-      <link>//localhost:1313/projects/arcade/</link>
+      <link>/projects/arcade/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/arcade/</guid>
-      <description>Arcade Game Collection (GitHub) Welcome to the Arcade game collection! This project features four classic arcade games: Tetris, Asteroids, Breakout, and Pacman. Whether you’re a fan of retro gaming or just looking for some nostalgic fun, this collection has something for everyone.
-Made using SDL2 and C++.
-Project Structure This is a Core/App project architecture. There are two included projects - one called Core, and one called Arcade(App). Premake is used to generate project files.</description>
+      <guid>/projects/arcade/</guid>
+      <description>&lt;h1 id=&#34;arcade-game-collection-githubhttpsgithubcomahmedyabbasarcade&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Arcade&#34;&gt;Arcade Game Collection (GitHub)&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Welcome to the Arcade game collection! This project features four classic arcade games: Tetris, Asteroids, Breakout, and Pacman. Whether you’re a fan of retro gaming or just looking for some nostalgic fun, this collection has something for everyone.&lt;/p&gt;
+&lt;p&gt;Made using SDL2 and C++.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;project-structure&#34;&gt;Project Structure&lt;/h2&gt;
+&lt;p&gt;This is a Core/App project architecture. There are two included projects - one called Core, and one called Arcade(App). Premake is used to generate project files.
+Core builds into a static library and is meant to contain common code intended for use in multiple games. Arcade builds into an executable and links the Core static library.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Text Invaders</title>
-      <link>//localhost:1313/projects/text_invaders/</link>
+      <link>/projects/text_invaders/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/text_invaders/</guid>
-      <description>Text Invaders (GitHub) A classic text-based space invaders game written entirely in C++ using PDCurses.
-Building the Project The project only supports x86 Windows for now!
-Clone the repository. Open Space Invaders.sln and make sure the platform is x86 then hit F5. An error will appear that pdcurses.dll is missing. Extract pdcurses.zip and copy pdcurses.dll from the extracted folder. Navigate to the bin/Win32/Your-Configuration/ folder and paste the dll. Open Space Invaders.</description>
+      <guid>/projects/text_invaders/</guid>
+      <description>&lt;h1 id=&#34;text-invaders-githubhttpsgithubcomahmedyabbastext-invaders&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Text-Invaders&#34;&gt;Text Invaders (GitHub)&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;A classic text-based space invaders game written entirely in C++ using PDCurses.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/FG-AP8WulY4&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/FG-AP8WulY4/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;building-the-project&#34;&gt;Building the Project&lt;/h2&gt;
+&lt;p&gt;The project only supports x86 Windows for now!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Clone the repository.&lt;/li&gt;
+&lt;li&gt;Open &lt;code&gt;Space Invaders.sln&lt;/code&gt; and make sure the platform is &lt;code&gt;x86&lt;/code&gt; then hit &lt;code&gt;F5&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;An error will appear that &lt;code&gt;pdcurses.dll&lt;/code&gt; is missing.&lt;/li&gt;
+&lt;li&gt;Extract &lt;code&gt;pdcurses.zip&lt;/code&gt; and copy &lt;code&gt;pdcurses.dll&lt;/code&gt; from the extracted folder.&lt;/li&gt;
+&lt;li&gt;Navigate to the &lt;code&gt;bin/Win32/Your-Configuration/&lt;/code&gt; folder and paste the dll.&lt;/li&gt;
+&lt;li&gt;Open &lt;code&gt;Space Invaders.sln&lt;/code&gt; and hit &lt;code&gt;F5&lt;/code&gt; again.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Aliens in different rows have different scores.&lt;/li&gt;
+&lt;li&gt;Mystery UFO.&lt;/li&gt;
+&lt;li&gt;Destructable shields.&lt;/li&gt;
+&lt;li&gt;Aliens move sideways and when they hit the sides they move one row down.&lt;/li&gt;
+&lt;li&gt;Aliens move faster when destroyed or each time they move downwards.&lt;/li&gt;
+&lt;li&gt;Each level, aliens start one row lower than the previous level.&lt;/li&gt;
+&lt;li&gt;If the aliens reach the bottom of the screen, the game ends.&lt;/li&gt;
+&lt;li&gt;Aliens drop bombs (max 3 bombs), and the player could only 1 missile at a time (they do not collide).&lt;/li&gt;
+&lt;li&gt;Player and aliens animations.&lt;/li&gt;
+&lt;li&gt;Intro, gameplay, gameover, and highscore screens.&lt;/li&gt;
+&lt;li&gt;Highscore leaderboard. (save/load system).&lt;/li&gt;
+&lt;li&gt;etc&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Battleship</title>
-      <link>//localhost:1313/projects/battleship/</link>
+      <link>/projects/battleship/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/battleship/</guid>
-      <description>Battleship (GitHub) A classic text-based battleship game written entirely in C++. You can play the game against your friend or against a not-so-smart AI.
-Building the project Open Battleship.sln. Hit F5 on your keyboard. Enjoy! </description>
+      <guid>/projects/battleship/</guid>
+      <description>&lt;h1 id=&#34;battleship-githubhttpsgithubcomahmedyabbasbattleship&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Battleship&#34;&gt;Battleship (GitHub)&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;A classic text-based battleship game written entirely in C++. You can play the game against your friend or against a not-so-smart AI.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/rx_0r-vypxQ&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/rx_0r-vypxQ/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;building-the-project&#34;&gt;Building the project&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Open &lt;code&gt;Battleship.sln&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Hit &lt;code&gt;F5&lt;/code&gt; on your keyboard.&lt;/li&gt;
+&lt;li&gt;Enjoy!&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Light Years</title>
-      <link>//localhost:1313/projects/light_years/</link>
+      <link>/projects/light_years/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/light_years/</guid>
-      <description>Light Years (GitHub) A space-shooter action game/game engine built with C++ and SFML.​
-Building the Project Clone the repository to your local machine. Navigate to the root directory of the project. Create a new directory named build. Open Command Prompt (CMD) and change the directory to the newly created build folder. In CMD, type the following command to build the project: cmake -S .. -B . Once the build is successful, you will find the vs solution in the build directory.</description>
+      <guid>/projects/light_years/</guid>
+      <description>&lt;h1 id=&#34;light-years-githubhttpsgithubcomahmedyabbaslight-years&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Light-Years&#34;&gt;Light Years (GitHub)&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;A space-shooter action game/game engine built with C++ and SFML.​&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/yFh2rjWwgo4&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/yFh2rjWwgo4/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;building-the-project&#34;&gt;Building the Project&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Clone the repository to your local machine.&lt;/li&gt;
+&lt;li&gt;Navigate to the root directory of the project.&lt;/li&gt;
+&lt;li&gt;Create a new directory named &lt;code&gt;build&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Open Command Prompt (CMD) and change the directory to the newly created &lt;code&gt;build&lt;/code&gt; folder.&lt;/li&gt;
+&lt;li&gt;In CMD, type the following command to build the project: &lt;code&gt;cmake -S .. -B .&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Once the build is successful, you will find the vs solution in the &lt;code&gt;build&lt;/code&gt; directory.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;WASD keys for movement.&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;Space&amp;rsquo; key for firing.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>City Building</title>
+      <link>/projects/city_building/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/projects/city_building/</guid>
+      <description>&lt;h1 id=&#34;city-building-githubhttpsgithubcomahmedyabbasue53-city-builder&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/UE5.3-City-Builder&#34;&gt;City Building (GitHub)&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;A work-in-progress city building game prototype in UE5.3. It&amp;rsquo;s a recreation for &lt;a href=&#34;https://www.youtube.com/playlist?list=PLFYGCCDpMHmHJwhIRY6qNumAts--W8bTy&#34;&gt;The Game Dev Channel&amp;rsquo;s City Building Playlist&lt;/a&gt; but using C++ instead of Blueprints.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/RqDowQ9bURY&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/RqDowQ9bURY/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;features&#34;&gt;Features&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Camera controls (move, orbit, pitch, zoom, free-roam).&lt;/li&gt;
+&lt;li&gt;Mouse cursor, click objects in-world, and highlight material.&lt;/li&gt;
+&lt;li&gt;Grid and buildings and roads placement system.&lt;/li&gt;
+&lt;li&gt;HUD for selecting buildings and roads.&lt;/li&gt;
+&lt;li&gt;Day and night cycle.&lt;/li&gt;
+&lt;li&gt;Currency system.&lt;/li&gt;
+&lt;li&gt;Random citizens generation.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Thor</title>
-      <link>//localhost:1313/projects/thor/</link>
+      <link>/projects/thor/</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/thor/</guid>
-      <description>Thor-Hammer-Mechanics (GitHub) Thor&amp;rsquo;s hammer mechanics in unreal engine 5 using blueprint
-Demo Mjolnir (Hammer) Thor Giant (Enemy) </description>
+      <guid>/projects/thor/</guid>
+      <description>&lt;h1 id=&#34;thor-hammer-mechanics-githubhttpsgithubcomahmedyabbasthor-hammer-mechanics&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Thor-Hammer-Mechanics&#34;&gt;Thor-Hammer-Mechanics (GitHub)&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Thor&amp;rsquo;s hammer mechanics in unreal engine 5 using blueprint&lt;/p&gt;
+&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5X7XcN8TM74&#34; title=&#34;Thor - Demo&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/5X7XcN8TM74/0.jpg&#34; alt=&#34;Thor - Demo&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mjolnir-hammer&#34;&gt;Mjolnir (Hammer)&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Mjolnir1.png&#34; alt=&#34;Mjolnir1&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Mjolnir2.png&#34; alt=&#34;Mjolnir2&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Mjolnir3.png&#34; alt=&#34;Mjolnir3&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Mjolnir4.png&#34; alt=&#34;Mjolnir4&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Mjolnir5.png&#34; alt=&#34;Mjolnir5&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Mjolnir6.png&#34; alt=&#34;Mjolnir6&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Mjolnir7.png&#34; alt=&#34;Mjolnir7&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;thor&#34;&gt;Thor&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Thor1.png&#34; alt=&#34;Thor1&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Thor2.png&#34; alt=&#34;Thor2&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Thor3.png&#34; alt=&#34;Thor3&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Thor4.png&#34; alt=&#34;Thor4&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Thor5.png&#34; alt=&#34;Thor5&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Thor6.png&#34; alt=&#34;Thor6&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Thor7.png&#34; alt=&#34;Thor7&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;giant-enemy&#34;&gt;Giant (Enemy)&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;/Images/Enemy1.png&#34; alt=&#34;Enemy1&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>Timefall</title>
-      <link>//localhost:1313/projects/timefall/</link>
+      <link>/projects/timefall/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/timefall/</guid>
-      <description>Timefall (GitHub) Timefall Enigne is a work in progress inspired by The Cherno&amp;rsquo;s Game Engine Series. The goal of this project is to create a powerful and flexible game engine that can be used to develop a wide range of games.
-Current Status As mentioned earlier, this project is in its early work-in-progress stage. I have successfully implemented some fundamental components, including:
-Events: Including MouseEvents, KeyboardEvents, WindowEvents. Logging: Basic Logging system that prints to the console.</description>
+      <guid>/projects/timefall/</guid>
+      <description>&lt;h2 id=&#34;timefall-githubhttpsgithubcomahmedyabbastimefall&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Timefall&#34;&gt;Timefall (GitHub)&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Timefall Enigne is a work in progress inspired by &lt;a href=&#34;https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT&#34;&gt;The Cherno&amp;rsquo;s Game Engine Series&lt;/a&gt;. The goal of this project is to create a powerful and flexible game engine that can be used to develop a wide range of games.&lt;/p&gt;
+&lt;h2 id=&#34;current-status&#34;&gt;Current Status&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/q7pRwjHe2cw&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/q7pRwjHe2cw/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As mentioned earlier, this project is in its early work-in-progress stage. I have successfully implemented some fundamental components, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Events:&lt;/strong&gt; Including MouseEvents, KeyboardEvents, WindowEvents.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Logging:&lt;/strong&gt; Basic Logging system that prints to the console.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Layers:&lt;/strong&gt; Layers system to associate actions to only specific layers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Input Handling:&lt;/strong&gt; Basic input handling for user interaction with the game.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2D Renderer:&lt;/strong&gt; 2D Rendering system using OpenGL to draw colored and textured quads on screen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Batch Rendering:&lt;/strong&gt; Batch rendering for geometry, transforms, colors, and textures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please note that while these components are functional, they may lack advanced features and optimizations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cyber Defense</title>
-      <link>//localhost:1313/projects/cyber_defense/</link>
+      <link>/projects/cyber_defense/</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/cyber_defense/</guid>
-      <description>Cyber Defense (GitHub) An online multiplayer tower defense game to raise awareness about deferent cybersecurity topics (Malware).
-My Role The game is a team project and my detailed role within the team is as follows:
-Co-designed the game and participated in writing the GDD. Implemented the networking logic for the game. Participated in the UI creation process and its implementation to make sure that it serves our vision. Implemented the different malware special abilities like the adware&amp;rsquo;s ads attack.</description>
+      <guid>/projects/cyber_defense/</guid>
+      <description>&lt;h1 id=&#34;cyber-defense-githubhttpsgithubcomahmedyabbascyber-defensetreedevelopment&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Cyber-Defense/tree/Development&#34;&gt;Cyber Defense (GitHub)&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;An online multiplayer tower defense game to raise awareness about different cybersecurity topics (Malware).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/4zejgNG3cjE&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/4zejgNG3cjE/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;My Role&lt;/h1&gt;
+&lt;p&gt;The game is a team project and my detailed role within the team is as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Co-designed the game and participated in writing the GDD.&lt;/li&gt;
+&lt;li&gt;Implemented the networking logic for the game.&lt;/li&gt;
+&lt;li&gt;Participated in the UI creation process and its implementation to make sure that it serves our vision.&lt;/li&gt;
+&lt;li&gt;Implemented the different malware special abilities like the adware&amp;rsquo;s ads attack.&lt;/li&gt;
+&lt;li&gt;Enhanced the different visuals for the game (lighting, post processing, shaders, etc&amp;hellip;).&lt;/li&gt;
+&lt;li&gt;Optimized the game to run on mobile devices at 45 fps.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

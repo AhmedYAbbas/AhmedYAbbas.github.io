@@ -2,25 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PDCurses on Ahmed Yasser - Portfolio</title>
-    <link>//localhost:1313/tags/pdcurses/</link>
+    <link>/tags/pdcurses/</link>
     <description>Recent content in PDCurses on Ahmed Yasser - Portfolio</description>
     <image>
       <title>Ahmed Yasser - Portfolio</title>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/pdcurses/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/pdcurses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Text Invaders</title>
-      <link>//localhost:1313/projects/text_invaders/</link>
+      <link>/projects/text_invaders/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/text_invaders/</guid>
-      <description>Text Invaders (GitHub) A classic text-based space invaders game written entirely in C++ using PDCurses.
-Building the Project The project only supports x86 Windows for now!
-Clone the repository. Open Space Invaders.sln and make sure the platform is x86 then hit F5. An error will appear that pdcurses.dll is missing. Extract pdcurses.zip and copy pdcurses.dll from the extracted folder. Navigate to the bin/Win32/Your-Configuration/ folder and paste the dll. Open Space Invaders.</description>
+      <guid>/projects/text_invaders/</guid>
+      <description>&lt;h1 id=&#34;text-invaders-githubhttpsgithubcomahmedyabbastext-invaders&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Text-Invaders&#34;&gt;Text Invaders (GitHub)&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;A classic text-based space invaders game written entirely in C++ using PDCurses.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/FG-AP8WulY4&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/FG-AP8WulY4/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;building-the-project&#34;&gt;Building the Project&lt;/h2&gt;
+&lt;p&gt;The project only supports x86 Windows for now!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Clone the repository.&lt;/li&gt;
+&lt;li&gt;Open &lt;code&gt;Space Invaders.sln&lt;/code&gt; and make sure the platform is &lt;code&gt;x86&lt;/code&gt; then hit &lt;code&gt;F5&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;An error will appear that &lt;code&gt;pdcurses.dll&lt;/code&gt; is missing.&lt;/li&gt;
+&lt;li&gt;Extract &lt;code&gt;pdcurses.zip&lt;/code&gt; and copy &lt;code&gt;pdcurses.dll&lt;/code&gt; from the extracted folder.&lt;/li&gt;
+&lt;li&gt;Navigate to the &lt;code&gt;bin/Win32/Your-Configuration/&lt;/code&gt; folder and paste the dll.&lt;/li&gt;
+&lt;li&gt;Open &lt;code&gt;Space Invaders.sln&lt;/code&gt; and hit &lt;code&gt;F5&lt;/code&gt; again.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Aliens in different rows have different scores.&lt;/li&gt;
+&lt;li&gt;Mystery UFO.&lt;/li&gt;
+&lt;li&gt;Destructable shields.&lt;/li&gt;
+&lt;li&gt;Aliens move sideways and when they hit the sides they move one row down.&lt;/li&gt;
+&lt;li&gt;Aliens move faster when destroyed or each time they move downwards.&lt;/li&gt;
+&lt;li&gt;Each level, aliens start one row lower than the previous level.&lt;/li&gt;
+&lt;li&gt;If the aliens reach the bottom of the screen, the game ends.&lt;/li&gt;
+&lt;li&gt;Aliens drop bombs (max 3 bombs), and the player could only 1 missile at a time (they do not collide).&lt;/li&gt;
+&lt;li&gt;Player and aliens animations.&lt;/li&gt;
+&lt;li&gt;Intro, gameplay, gameover, and highscore screens.&lt;/li&gt;
+&lt;li&gt;Highscore leaderboard. (save/load system).&lt;/li&gt;
+&lt;li&gt;etc&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>

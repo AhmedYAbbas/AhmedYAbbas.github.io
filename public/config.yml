@@ -2,7 +2,7 @@
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: ""
 title: Ahmed Yasser - Portfolio
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableInlineShortcodes: true

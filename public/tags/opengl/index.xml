@@ -2,25 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>OpenGL on Ahmed Yasser - Portfolio</title>
-    <link>//localhost:1313/tags/opengl/</link>
+    <link>/tags/opengl/</link>
     <description>Recent content in OpenGL on Ahmed Yasser - Portfolio</description>
     <image>
       <title>Ahmed Yasser - Portfolio</title>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Timefall</title>
-      <link>//localhost:1313/projects/timefall/</link>
+      <link>/projects/timefall/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/timefall/</guid>
-      <description>Timefall (GitHub) Timefall Enigne is a work in progress inspired by The Cherno&amp;rsquo;s Game Engine Series. The goal of this project is to create a powerful and flexible game engine that can be used to develop a wide range of games.
-Current Status As mentioned earlier, this project is in its early work-in-progress stage. I have successfully implemented some fundamental components, including:
-Events: Including MouseEvents, KeyboardEvents, WindowEvents. Logging: Basic Logging system that prints to the console.</description>
+      <guid>/projects/timefall/</guid>
+      <description>&lt;h2 id=&#34;timefall-githubhttpsgithubcomahmedyabbastimefall&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Timefall&#34;&gt;Timefall (GitHub)&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Timefall Enigne is a work in progress inspired by &lt;a href=&#34;https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT&#34;&gt;The Cherno&amp;rsquo;s Game Engine Series&lt;/a&gt;. The goal of this project is to create a powerful and flexible game engine that can be used to develop a wide range of games.&lt;/p&gt;
+&lt;h2 id=&#34;current-status&#34;&gt;Current Status&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/q7pRwjHe2cw&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/q7pRwjHe2cw/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As mentioned earlier, this project is in its early work-in-progress stage. I have successfully implemented some fundamental components, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Events:&lt;/strong&gt; Including MouseEvents, KeyboardEvents, WindowEvents.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Logging:&lt;/strong&gt; Basic Logging system that prints to the console.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Layers:&lt;/strong&gt; Layers system to associate actions to only specific layers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Input Handling:&lt;/strong&gt; Basic input handling for user interaction with the game.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2D Renderer:&lt;/strong&gt; 2D Rendering system using OpenGL to draw colored and textured quads on screen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Batch Rendering:&lt;/strong&gt; Batch rendering for geometry, transforms, colors, and textures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please note that while these components are functional, they may lack advanced features and optimizations.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
