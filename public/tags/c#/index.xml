@@ -32,24 +32,26 @@
 &lt;p&gt;A guideline-inspired Tetris implementation built in C# on top of &lt;a href=&#34;//localhost:1315/projects/timefall/&#34;&gt;Timefall&lt;/a&gt; — created as a full, non-trivial game to stress-test the scripting layer end-to-end. Every gameplay system (piece spawning, movement, rotation, line clears, scoring) is pure C# scripting against the engine&amp;rsquo;s entity API. The rule during development: if a feature needed a new engine capability, that capability got added as a generic, reusable engine system — never a Tetris-specific workaround.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Neural Dominion</title>
+      <link>//localhost:1315/projects/neural_dominion/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1315/projects/neural_dominion/</guid>
+      <description>&lt;h1 id=&#34;neural-dominion&#34;&gt;Neural Dominion&lt;/h1&gt;
+&lt;p&gt;Neural Dominion is an upcoming cyberpunk 4X turn-based strategy game from GamesBond Studios (published by Camlann Games) — players lead one of five rival gangs fighting for control of Technograd, blending city-building and economic strategy with turn-based tactical combat.&lt;/p&gt;
+&lt;p&gt;I worked on this as part of a 4-person team, building the event system, UI implementation, the stats system, and the building system.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/neural_dominion_screenshot.jpg&#34; alt=&#34;Neural Dominion gameplay&#34;  /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://store.steampowered.com/app/2493210/Neural_Dominion/&#34;&gt;Steam page →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Cyber Defense</title>
       <link>//localhost:1315/projects/cyber_defense/</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1315/projects/cyber_defense/</guid>
-      <description>&lt;h1 id=&#34;cyber-defense-githubhttpsgithubcomahmedyabbascyber-defensetreedevelopment&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Cyber-Defense/tree/Development&#34;&gt;Cyber Defense (GitHub)&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;An online multiplayer tower defense game to raise awareness about different cybersecurity topics (Malware).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/4zejgNG3cjE&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/4zejgNG3cjE/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;my-role&#34;&gt;My Role&lt;/h1&gt;
-&lt;p&gt;The game is a team project and my detailed role within the team is as follows:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Co-designed the game and participated in writing the GDD.&lt;/li&gt;
-&lt;li&gt;Implemented the networking logic for the game.&lt;/li&gt;
-&lt;li&gt;Participated in the UI creation process and its implementation to make sure that it serves our vision.&lt;/li&gt;
-&lt;li&gt;Implemented the different malware special abilities like the adware&amp;rsquo;s ads attack.&lt;/li&gt;
-&lt;li&gt;Enhanced the different visuals for the game (lighting, post processing, shaders, etc&amp;hellip;).&lt;/li&gt;
-&lt;li&gt;Optimized the game to run on mobile devices at 45 fps.&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;h1 id=&#34;cyber-defense&#34;&gt;Cyber Defense&lt;/h1&gt;
+&lt;p&gt;An asymmetric 1v1 multiplayer tower-defense game built in Unity, developed with team Vanguardians as an ITI graduation project in partnership with EG-CERT. One player attacks with a roster of malware (Adware, Ransomware, Trojan Horse, Virus, Ghost), the other builds and upgrades towers along a grid to defend — sides swap each round, best of three wins.&lt;/p&gt;
+&lt;p&gt;Built on Unity URP with real-time 1v1 multiplayer over Photon PUN2, NavMesh-driven malware pathing, a grid-based tower placement/upgrade system, an energy economy gating both sides&amp;rsquo; actions, and a guided interactive tutorial.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

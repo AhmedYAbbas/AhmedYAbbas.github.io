@@ -18,28 +18,21 @@
       <link>//localhost:1315/projects/city_building/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1315/projects/city_building/</guid>
-      <description>&lt;h1 id=&#34;city-building-githubhttpsgithubcomahmedyabbasue53-city-builder&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/UE5.3-City-Builder&#34;&gt;City Building (GitHub)&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;A work-in-progress city building game prototype in UE5.3. It&amp;rsquo;s a recreation for &lt;a href=&#34;https://www.youtube.com/playlist?list=PLFYGCCDpMHmHJwhIRY6qNumAts--W8bTy&#34;&gt;The Game Dev Channel&amp;rsquo;s City Building Playlist&lt;/a&gt; but using C++ instead of Blueprints.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;city-building&#34;&gt;City Building&lt;/h1&gt;
+&lt;p&gt;A work-in-progress UE5.3 city-building prototype, recreating &lt;a href=&#34;https://www.youtube.com/playlist?list=PLFYGCCDpMHmHJwhIRY6qNumAts--W8bTy&#34;&gt;The Game Dev Channel&amp;rsquo;s City Building series&lt;/a&gt; in C++ instead of Blueprints. Features a grid-based placement system for roads and buildings with adjacency validation and preview materials, a day/night cycle with adjustable time speed, a currency system, and randomized citizen generation (mesh, gender, name, age, education, health).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/RqDowQ9bURY&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/RqDowQ9bURY/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;features&#34;&gt;Features&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Camera controls (move, orbit, pitch, zoom, free-roam).&lt;/li&gt;
-&lt;li&gt;Mouse cursor, click objects in-world, and highlight material.&lt;/li&gt;
-&lt;li&gt;Grid and buildings and roads placement system.&lt;/li&gt;
-&lt;li&gt;HUD for selecting buildings and roads.&lt;/li&gt;
-&lt;li&gt;Day and night cycle.&lt;/li&gt;
-&lt;li&gt;Currency system.&lt;/li&gt;
-&lt;li&gt;Random citizens generation.&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/UE5.3-City-Builder&#34;&gt;GitHub →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thor</title>
       <link>//localhost:1315/projects/thor/</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1315/projects/thor/</guid>
-      <description>&lt;h1 id=&#34;thor-hammer-mechanics-githubhttpsgithubcomahmedyabbasthor-hammer-mechanics&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Thor-Hammer-Mechanics&#34;&gt;Thor-Hammer-Mechanics (GitHub)&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;Thor&amp;rsquo;s hammer mechanics in unreal engine 5 using blueprint&lt;/p&gt;
+      <description>&lt;h1 id=&#34;thor&#34;&gt;Thor&lt;/h1&gt;
+&lt;p&gt;A third-person Unreal Engine 5.1 prototype recreating Thor&amp;rsquo;s Mjolnir — throw, catch, recall, and ground-slam for an area attack, plus a focus/lock-on system and a Frost Giant enemy to fight against. Built primarily in Blueprints with a lightweight C++ actor class driving the hammer&amp;rsquo;s flight logic.&lt;/p&gt;
 &lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5X7XcN8TM74&#34; title=&#34;Thor - Demo&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/5X7XcN8TM74/0.jpg&#34; alt=&#34;Thor - Demo&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -58,7 +51,7 @@
 
 &lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Mjolnir7.png&#34; alt=&#34;Mjolnir7&#34;  /&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;thor&#34;&gt;Thor&lt;/h2&gt;
+&lt;h2 id=&#34;thor-1&#34;&gt;Thor&lt;/h2&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Thor1.png&#34; alt=&#34;Thor1&#34;  /&gt;
 
 &lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Thor2.png&#34; alt=&#34;Thor2&#34;  /&gt;
@@ -72,9 +65,6 @@
 &lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Thor6.png&#34; alt=&#34;Thor6&#34;  /&gt;
 
 &lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Thor7.png&#34; alt=&#34;Thor7&#34;  /&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;giant-enemy&#34;&gt;Giant (Enemy)&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Enemy1.png&#34; alt=&#34;Enemy1&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
   </channel>

@@ -28,13 +28,13 @@
       <link>//localhost:1315/projects/arcade/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1315/projects/arcade/</guid>
-      <description>&lt;h1 id=&#34;arcade-game-collection-githubhttpsgithubcomahmedyabbasarcade&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Arcade&#34;&gt;Arcade Game Collection (GitHub)&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;Welcome to the Arcade game collection! This project features four classic arcade games: Tetris, Asteroids, Breakout, and Pacman. Whether you’re a fan of retro gaming or just looking for some nostalgic fun, this collection has something for everyone.&lt;/p&gt;
-&lt;p&gt;Made using SDL2 and C++.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;arcade&#34;&gt;Arcade&lt;/h1&gt;
+&lt;p&gt;A collection of classic arcade games built from scratch in C++ with SDL2, using a Core/App architecture — a shared static-library Core plus a game executable. Pacman, Breakout, and Asteroids are playable; a Tetris implementation is still in development.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/pxXukngprM4&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/pxXukngprM4/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;project-structure&#34;&gt;Project Structure&lt;/h2&gt;
-&lt;p&gt;This is a Core/App project architecture. There are two included projects - one called Core, and one called Arcade(App). Premake is used to generate project files.
-Core builds into a static library and is meant to contain common code intended for use in multiple games. Arcade builds into an executable and links the Core static library.&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Arcade&#34;&gt;GitHub →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
