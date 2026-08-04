@@ -2,171 +2,174 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/papermod/papermod-installation/</loc>
+    <loc>//localhost:1315/posts/papermod/papermod-installation/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/papermod/papermod-features/</loc>
+    <loc>//localhost:1315/posts/papermod/papermod-features/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/markdown-syntax.fr/</loc>
+    <loc>//localhost:1315/posts/markdown-syntax.fr/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/markdown-syntax.fa/</loc>
+    <loc>//localhost:1315/posts/markdown-syntax.fa/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1315/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/arcade/</loc>
+    <loc>//localhost:1315/projects/arcade/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/c&#43;&#43;/</loc>
+    <loc>//localhost:1315/tags/c&#43;&#43;/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1315/categories/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/premake/</loc>
+    <loc>//localhost:1315/tags/premake/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/programming/</loc>
+    <loc>//localhost:1315/categories/programming/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>//localhost:1315/projects/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/sdl2/</loc>
+    <loc>//localhost:1315/tags/sdl2/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1315/tags/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/pdcurses/</loc>
+    <loc>//localhost:1315/tags/pdcurses/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/text_invaders/</loc>
+    <loc>//localhost:1315/projects/text_invaders/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/battleship/</loc>
+    <loc>//localhost:1315/projects/battleship/</loc>
     <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cmake/</loc>
+    <loc>//localhost:1315/tags/cmake/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/light_years/</loc>
+    <loc>//localhost:1315/projects/light_years/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/sfml/</loc>
+    <loc>//localhost:1315/tags/sfml/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/city_building/</loc>
+    <loc>//localhost:1315/projects/city_building/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/game-engines/</loc>
+    <loc>//localhost:1315/categories/game-engines/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/unreal-engine/</loc>
+    <loc>//localhost:1315/tags/unreal-engine/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/blueprints/</loc>
+    <loc>//localhost:1315/tags/blueprints/</loc>
     <lastmod>2023-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/thor/</loc>
+    <loc>//localhost:1315/projects/thor/</loc>
     <lastmod>2023-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/opengl/</loc>
+    <loc>//localhost:1315/tags/c%23/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/timefall/</loc>
+    <loc>//localhost:1315/tags/opengl/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/c%23/</loc>
+    <loc>//localhost:1315/projects/timefall/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1315/tags/vulkan/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1315/projects/cyber_defense/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/cyber_defense/</loc>
+    <loc>//localhost:1315/tags/networking/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/networking/</loc>
+    <loc>//localhost:1315/tags/photon-pun-2/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/photon-pun-2/</loc>
+    <loc>//localhost:1315/tags/unity/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/unity/</loc>
-    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/docs/</loc>
+    <loc>//localhost:1315/tags/docs/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/papermod/</loc>
+    <loc>//localhost:1315/tags/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/papermod/</loc>
+    <loc>//localhost:1315/posts/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>//localhost:1315/posts/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/css/</loc>
+    <loc>//localhost:1315/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/html/</loc>
+    <loc>//localhost:1315/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/markdown/</loc>
+    <loc>//localhost:1315/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/markdown-syntax/</loc>
+    <loc>//localhost:1315/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/syntax/</loc>
+    <loc>//localhost:1315/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/themes/</loc>
+    <loc>//localhost:1315/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/themes/</loc>
+    <loc>//localhost:1315/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/code/</loc>
+    <loc>//localhost:1315/tags/code/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/code_syntax/</loc>
+    <loc>//localhost:1315/posts/code_syntax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/example/</loc>
+    <loc>//localhost:1315/posts/example/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/gist/</loc>
+    <loc>//localhost:1315/tags/gist/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/privacy/</loc>
+    <loc>//localhost:1315/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/rich-content/</loc>
+    <loc>//localhost:1315/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/shortcodes/</loc>
+    <loc>//localhost:1315/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/syntax/</loc>
+    <loc>//localhost:1315/tags/syntax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/math-typesetting/</loc>
+    <loc>//localhost:1315/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/emoji/</loc>
+    <loc>//localhost:1315/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/emoji-support/</loc>
+    <loc>//localhost:1315/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/archives.fr/</loc>
+    <loc>//localhost:1315/archives.fr/</loc>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>//localhost:1315/archives/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>//localhost:1315/search/</loc>
   </url><url>
-    <loc>/search.fr/</loc>
+    <loc>//localhost:1315/search.fr/</loc>
   </url>
 </urlset>

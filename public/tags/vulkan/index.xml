@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>C# on Ahmed Yasser - Portfolio</title>
-    <link>//localhost:1315/tags/c%23/</link>
-    <description>Recent content in C# on Ahmed Yasser - Portfolio</description>
+    <title>Vulkan on Ahmed Yasser - Portfolio</title>
+    <link>//localhost:1315/tags/vulkan/</link>
+    <description>Recent content in Vulkan on Ahmed Yasser - Portfolio</description>
     <image>
       <title>Ahmed Yasser - Portfolio</title>
       <url>//localhost:1315/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1315/tags/c%23/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1315/tags/vulkan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Timefall</title>
       <link>//localhost:1315/projects/timefall/</link>
@@ -22,26 +22,6 @@
 &lt;p&gt;Timefall is a game engine built from scratch in C++, originally inspired by &lt;a href=&#34;https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT&#34;&gt;The Cherno&amp;rsquo;s Game Engine Series&lt;/a&gt; and developed well beyond it since. The goal: a Windows-first engine with AAA-grade rendering quality, an editor workflow comparable to commercial tools, and a C#-scripted gameplay layer.&lt;/p&gt;
 &lt;h2 id=&#34;renderer&#34;&gt;Renderer&lt;/h2&gt;
 &lt;p&gt;A forward 3D PBR pipeline: metallic-roughness Cook-Torrance lighting (GGX/Smith/Schlick), energy compensation, geometric specular anti-aliasing, and normal mapping. Image-based lighting from HDR environment maps with prefiltered specular and diffuse irradiance convolution. Shadows for all three light types — cascaded shadow maps (up to 4 cascades) for directional lights, plus spot and point (cubemap) shadows, each with hard and PCSS soft-shadow modes. A full HDR pipeline with multiple tonemap operators (Reinhard, ACES, AgX, and more), alongside a 2D batch renderer running in parallel.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cyber Defense</title>
-      <link>//localhost:1315/projects/cyber_defense/</link>
-      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1315/projects/cyber_defense/</guid>
-      <description>&lt;h1 id=&#34;cyber-defense-githubhttpsgithubcomahmedyabbascyber-defensetreedevelopment&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Cyber-Defense/tree/Development&#34;&gt;Cyber Defense (GitHub)&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;An online multiplayer tower defense game to raise awareness about different cybersecurity topics (Malware).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/4zejgNG3cjE&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/4zejgNG3cjE/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;my-role&#34;&gt;My Role&lt;/h1&gt;
-&lt;p&gt;The game is a team project and my detailed role within the team is as follows:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Co-designed the game and participated in writing the GDD.&lt;/li&gt;
-&lt;li&gt;Implemented the networking logic for the game.&lt;/li&gt;
-&lt;li&gt;Participated in the UI creation process and its implementation to make sure that it serves our vision.&lt;/li&gt;
-&lt;li&gt;Implemented the different malware special abilities like the adware&amp;rsquo;s ads attack.&lt;/li&gt;
-&lt;li&gt;Enhanced the different visuals for the game (lighting, post processing, shaders, etc&amp;hellip;).&lt;/li&gt;
-&lt;li&gt;Optimized the game to run on mobile devices at 45 fps.&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

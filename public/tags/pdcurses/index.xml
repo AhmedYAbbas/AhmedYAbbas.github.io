@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PDCurses on Ahmed Yasser - Portfolio</title>
-    <link>//localhost:1313/tags/pdcurses/</link>
+    <link>//localhost:1315/tags/pdcurses/</link>
     <description>Recent content in PDCurses on Ahmed Yasser - Portfolio</description>
     <image>
       <title>Ahmed Yasser - Portfolio</title>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1315/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1315/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/pdcurses/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1315/tags/pdcurses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Text Invaders</title>
-      <link>//localhost:1313/projects/text_invaders/</link>
+      <link>//localhost:1315/projects/text_invaders/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/text_invaders/</guid>
+      <guid>//localhost:1315/projects/text_invaders/</guid>
       <description>&lt;h1 id=&#34;text-invaders-githubhttpsgithubcomahmedyabbastext-invaders&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Text-Invaders&#34;&gt;Text Invaders (GitHub)&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;A classic text-based space invaders game written entirely in C++ using PDCurses.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/FG-AP8WulY4&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/FG-AP8WulY4/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;

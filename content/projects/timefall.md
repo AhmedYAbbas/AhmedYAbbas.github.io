@@ -3,61 +3,30 @@ title: 'Timefall'
 date: "2023-07-06"
 cover: 
     image: Images/timefall.png
-    alt: 'Timefall - 2D Renderer'
-    caption: 'Timefall - 2D Renderer'
-tags: ["C++", "OpenGL", "Premake"]
-categories: [Programming]
+    alt: 'Timefall - Game Engine'
+    caption: 'Timefall - Game Engine'
+tags: ["C++", "OpenGL", "Vulkan", "C#", "Premake"]
+categories: [Programming, Game Engines]
 ---
 
-## [Timefall (GitHub)](https://github.com/AhmedYAbbas/Timefall)
- Timefall Enigne is a work in progress inspired by [The Cherno's Game Engine Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT). The goal of this project is to create a powerful and flexible game engine that can be used to develop a wide range of games.
+# Timefall (flagship)
 
-## Current Status
+Timefall is a game engine built from scratch in C++, originally inspired by [The Cherno's Game Engine Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT) and developed well beyond it since. The goal: a Windows-first engine with AAA-grade rendering quality, an editor workflow comparable to commercial tools, and a C#-scripted gameplay layer.
 
-[![Watch the video](https://img.youtube.com/vi/q7pRwjHe2cw/hqdefault.jpg)](https://www.youtube.com/embed/q7pRwjHe2cw)
+## Renderer
+A forward 3D PBR pipeline: metallic-roughness Cook-Torrance lighting (GGX/Smith/Schlick), energy compensation, geometric specular anti-aliasing, and normal mapping. Image-based lighting from HDR environment maps with prefiltered specular and diffuse irradiance convolution. Shadows for all three light types — cascaded shadow maps (up to 4 cascades) for directional lights, plus spot and point (cubemap) shadows, each with hard and PCSS soft-shadow modes. A full HDR pipeline with multiple tonemap operators (Reinhard, ACES, AgX, and more), alongside a 2D batch renderer running in parallel.
 
+## Scene & Scripting
+An entt-based ECS with a full scene graph, and C# gameplay scripting (.NET 9, hosted in-process via hostfxr) with assembly hot-reload, covering transforms, components, input, and 2D physics via Box2D.
 
-As mentioned earlier, this project is in its early work-in-progress stage. I have successfully implemented some fundamental components, including:
+## Editor
+A full Dear ImGui editor: scene hierarchy, inspector, content browser, a viewport with gizmos and entity picking, Edit/Play/Simulate states, and a real-time profiler (Tracy-based CPU/GPU profiling with VRAM tracking).
 
-- **Events:** Including MouseEvents, KeyboardEvents, WindowEvents.
-- **Logging:** Basic Logging system that prints to the console.
-- **Layers:** Layers system to associate actions to only specific layers.
-- **Input Handling:** Basic input handling for user interaction with the game.
-- **2D Renderer:** 2D Rendering system using OpenGL to draw colored and textured quads on screen.
-- **Batch Rendering:** Batch rendering for geometry, transforms, colors, and textures.
+To stress-test the engine end-to-end, I built a complete Tetris clone on top of it — every gameplay system implemented in pure C# script against the engine's API, with zero engine changes required.
 
-Please note that while these components are functional, they may lack advanced features and optimizations.
-
-***
-
-## Getting Started
-Visual Studio 2022 is recommended, Timefall is officially untested on other development environments whilst I focus on a Windows build.
-
-<ins>**1. Downloading the repository:**</ins>
-
-Start by cloning the repository with `git clone --recursive https://github.com/AhmedYAbbas/Timefall`.
-
-If the repository was cloned non-recursively previously, use `git submodule update --init` to clone the necessary submodules.
-
-<ins>**2. Configuring the dependencies:**</ins>
-
-Run the [Win-GenProjects.bat](https://github.com/AhmedYAbbas/Timefall/blob/main/scripts/Win-GenProjects.bat) file found in `scripts` folder. Script file will get executed, which will then generate a Visual Studio solution file for user's usage.
-
-If changes are made, or if you want to regenerate project files, rerun the [Win-GenProjects.bat](https://github.com/AhmedYAbbas/Timefall/blob/main/scripts/Win-GenProjects.bat) script file found in `scripts` folder.
+<!-- VISUAL: a PBR-lit scene showing IBL + shadows -->
+<!-- VISUAL: editor screenshot/GIF — viewport, scene hierarchy, profiler panel -->
 
 ***
 
-## The Plan
-The plan for Timefall is two-fold: to create a powerful 2D and 3D engine, while also learning game engine design and architecture.
-
-### Main features to come:
-- Fast 2D rendering (UI, particles, sprites, etc.)
-- High-fidelity Physically-Based 3D rendering (this will be expanded later, 2D to come first)
-- Support for Mac, Linux, Android and iOS
-    - Native rendering API support (DirectX, Vulkan, Metal)
-- Fully featured viewer and editor applications
-- Fully scripted interaction and behavior
-- Integrated 3rd party 2D and 3D physics engine
-- Procedural terrain and world generation
-- Artificial Intelligence
-- Audio system
+[GitHub →](https://github.com/AhmedYAbbas/Timefall)

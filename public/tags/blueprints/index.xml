@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blueprints on Ahmed Yasser - Portfolio</title>
-    <link>//localhost:1313/tags/blueprints/</link>
+    <link>//localhost:1315/tags/blueprints/</link>
     <description>Recent content in Blueprints on Ahmed Yasser - Portfolio</description>
     <image>
       <title>Ahmed Yasser - Portfolio</title>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1315/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1315/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/blueprints/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1315/tags/blueprints/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thor</title>
-      <link>//localhost:1313/projects/thor/</link>
+      <link>//localhost:1315/projects/thor/</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/thor/</guid>
+      <guid>//localhost:1315/projects/thor/</guid>
       <description>&lt;h1 id=&#34;thor-hammer-mechanics-githubhttpsgithubcomahmedyabbasthor-hammer-mechanics&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Thor-Hammer-Mechanics&#34;&gt;Thor-Hammer-Mechanics (GitHub)&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;Thor&amp;rsquo;s hammer mechanics in unreal engine 5 using blueprint&lt;/p&gt;
 &lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5X7XcN8TM74&#34; title=&#34;Thor - Demo&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/5X7XcN8TM74/0.jpg&#34; alt=&#34;Thor - Demo&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;mjolnir-hammer&#34;&gt;Mjolnir (Hammer)&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Mjolnir1.png&#34; alt=&#34;Mjolnir1&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Mjolnir1.png&#34; alt=&#34;Mjolnir1&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Mjolnir2.png&#34; alt=&#34;Mjolnir2&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Mjolnir2.png&#34; alt=&#34;Mjolnir2&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Mjolnir3.png&#34; alt=&#34;Mjolnir3&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Mjolnir3.png&#34; alt=&#34;Mjolnir3&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Mjolnir4.png&#34; alt=&#34;Mjolnir4&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Mjolnir4.png&#34; alt=&#34;Mjolnir4&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Mjolnir5.png&#34; alt=&#34;Mjolnir5&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Mjolnir5.png&#34; alt=&#34;Mjolnir5&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Mjolnir6.png&#34; alt=&#34;Mjolnir6&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Mjolnir6.png&#34; alt=&#34;Mjolnir6&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Mjolnir7.png&#34; alt=&#34;Mjolnir7&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Mjolnir7.png&#34; alt=&#34;Mjolnir7&#34;  /&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;thor&#34;&gt;Thor&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Thor1.png&#34; alt=&#34;Thor1&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Thor1.png&#34; alt=&#34;Thor1&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Thor2.png&#34; alt=&#34;Thor2&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Thor2.png&#34; alt=&#34;Thor2&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Thor3.png&#34; alt=&#34;Thor3&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Thor3.png&#34; alt=&#34;Thor3&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Thor4.png&#34; alt=&#34;Thor4&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Thor4.png&#34; alt=&#34;Thor4&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Thor5.png&#34; alt=&#34;Thor5&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Thor5.png&#34; alt=&#34;Thor5&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Thor6.png&#34; alt=&#34;Thor6&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Thor6.png&#34; alt=&#34;Thor6&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Thor7.png&#34; alt=&#34;Thor7&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Thor7.png&#34; alt=&#34;Thor7&#34;  /&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;giant-enemy&#34;&gt;Giant (Enemy)&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/Images/Enemy1.png&#34; alt=&#34;Enemy1&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1315/Images/Enemy1.png&#34; alt=&#34;Enemy1&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
   </channel>

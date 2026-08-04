@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Premake on Ahmed Yasser - Portfolio</title>
-    <link>//localhost:1313/tags/premake/</link>
+    <link>//localhost:1315/tags/premake/</link>
     <description>Recent content in Premake on Ahmed Yasser - Portfolio</description>
     <image>
       <title>Ahmed Yasser - Portfolio</title>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1315/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1315/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/premake/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1315/tags/premake/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arcade</title>
-      <link>//localhost:1313/projects/arcade/</link>
+      <link>//localhost:1315/projects/arcade/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/arcade/</guid>
+      <guid>//localhost:1315/projects/arcade/</guid>
       <description>&lt;h1 id=&#34;arcade-game-collection-githubhttpsgithubcomahmedyabbasarcade&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Arcade&#34;&gt;Arcade Game Collection (GitHub)&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;Welcome to the Arcade game collection! This project features four classic arcade games: Tetris, Asteroids, Breakout, and Pacman. Whether you’re a fan of retro gaming or just looking for some nostalgic fun, this collection has something for everyone.&lt;/p&gt;
 &lt;p&gt;Made using SDL2 and C++.&lt;/p&gt;
@@ -28,24 +28,13 @@ Core builds into a static library and is meant to contain common code intended f
     </item>
     <item>
       <title>Timefall</title>
-      <link>//localhost:1313/projects/timefall/</link>
+      <link>//localhost:1315/projects/timefall/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/timefall/</guid>
-      <description>&lt;h2 id=&#34;timefall-githubhttpsgithubcomahmedyabbastimefall&#34;&gt;&lt;a href=&#34;https://github.com/AhmedYAbbas/Timefall&#34;&gt;Timefall (GitHub)&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Timefall Enigne is a work in progress inspired by &lt;a href=&#34;https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT&#34;&gt;The Cherno&amp;rsquo;s Game Engine Series&lt;/a&gt;. The goal of this project is to create a powerful and flexible game engine that can be used to develop a wide range of games.&lt;/p&gt;
-&lt;h2 id=&#34;current-status&#34;&gt;Current Status&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/embed/q7pRwjHe2cw&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/q7pRwjHe2cw/hqdefault.jpg&#34; alt=&#34;Watch the video&#34;  /&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;As mentioned earlier, this project is in its early work-in-progress stage. I have successfully implemented some fundamental components, including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Events:&lt;/strong&gt; Including MouseEvents, KeyboardEvents, WindowEvents.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Logging:&lt;/strong&gt; Basic Logging system that prints to the console.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Layers:&lt;/strong&gt; Layers system to associate actions to only specific layers.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Input Handling:&lt;/strong&gt; Basic input handling for user interaction with the game.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2D Renderer:&lt;/strong&gt; 2D Rendering system using OpenGL to draw colored and textured quads on screen.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Batch Rendering:&lt;/strong&gt; Batch rendering for geometry, transforms, colors, and textures.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Please note that while these components are functional, they may lack advanced features and optimizations.&lt;/p&gt;</description>
+      <guid>//localhost:1315/projects/timefall/</guid>
+      <description>&lt;h1 id=&#34;timefall-flagship&#34;&gt;Timefall (flagship)&lt;/h1&gt;
+&lt;p&gt;Timefall is a game engine built from scratch in C++, originally inspired by &lt;a href=&#34;https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT&#34;&gt;The Cherno&amp;rsquo;s Game Engine Series&lt;/a&gt; and developed well beyond it since. The goal: a Windows-first engine with AAA-grade rendering quality, an editor workflow comparable to commercial tools, and a C#-scripted gameplay layer.&lt;/p&gt;
+&lt;h2 id=&#34;renderer&#34;&gt;Renderer&lt;/h2&gt;
+&lt;p&gt;A forward 3D PBR pipeline: metallic-roughness Cook-Torrance lighting (GGX/Smith/Schlick), energy compensation, geometric specular anti-aliasing, and normal mapping. Image-based lighting from HDR environment maps with prefiltered specular and diffuse irradiance convolution. Shadows for all three light types — cascaded shadow maps (up to 4 cascades) for directional lights, plus spot and point (cubemap) shadows, each with hard and PCSS soft-shadow modes. A full HDR pipeline with multiple tonemap operators (Reinhard, ACES, AgX, and more), alongside a 2D batch renderer running in parallel.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
