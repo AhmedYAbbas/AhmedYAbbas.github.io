@@ -1,6 +1,7 @@
 ---
 title: 'Light Years'
 date: "2024-04-25"
+weight: 5
 cover: 
     image: Images/light_years.png
     alt: 'Light Years'

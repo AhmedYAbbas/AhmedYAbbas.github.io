@@ -14,6 +14,16 @@
     <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1315/tags/premake/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Timefall</title>
+      <link>//localhost:1315/projects/timefall/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1315/projects/timefall/</guid>
+      <description>&lt;h1 id=&#34;timefall-flagship&#34;&gt;Timefall (flagship)&lt;/h1&gt;
+&lt;p&gt;Timefall is a game engine built from scratch in C++, originally inspired by &lt;a href=&#34;https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT&#34;&gt;The Cherno&amp;rsquo;s Game Engine Series&lt;/a&gt; and developed well beyond it since. The goal: a Windows-first engine with AAA-grade rendering quality, an editor workflow comparable to commercial tools, and a C#-scripted gameplay layer.&lt;/p&gt;
+&lt;h2 id=&#34;renderer&#34;&gt;Renderer&lt;/h2&gt;
+&lt;p&gt;A forward 3D PBR pipeline: metallic-roughness Cook-Torrance lighting (GGX/Smith/Schlick), energy compensation, geometric specular anti-aliasing, and normal mapping. Image-based lighting from HDR environment maps with prefiltered specular and diffuse irradiance convolution. Shadows for all three light types — cascaded shadow maps (up to 4 cascades) for directional lights, plus spot and point (cubemap) shadows, each with hard and PCSS soft-shadow modes. A full HDR pipeline with multiple tonemap operators (Reinhard, ACES, AgX, and more), alongside a 2D batch renderer running in parallel.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Arcade</title>
       <link>//localhost:1315/projects/arcade/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
@@ -25,16 +35,6 @@
 &lt;h2 id=&#34;project-structure&#34;&gt;Project Structure&lt;/h2&gt;
 &lt;p&gt;This is a Core/App project architecture. There are two included projects - one called Core, and one called Arcade(App). Premake is used to generate project files.
 Core builds into a static library and is meant to contain common code intended for use in multiple games. Arcade builds into an executable and links the Core static library.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Timefall</title>
-      <link>//localhost:1315/projects/timefall/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1315/projects/timefall/</guid>
-      <description>&lt;h1 id=&#34;timefall-flagship&#34;&gt;Timefall (flagship)&lt;/h1&gt;
-&lt;p&gt;Timefall is a game engine built from scratch in C++, originally inspired by &lt;a href=&#34;https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT&#34;&gt;The Cherno&amp;rsquo;s Game Engine Series&lt;/a&gt; and developed well beyond it since. The goal: a Windows-first engine with AAA-grade rendering quality, an editor workflow comparable to commercial tools, and a C#-scripted gameplay layer.&lt;/p&gt;
-&lt;h2 id=&#34;renderer&#34;&gt;Renderer&lt;/h2&gt;
-&lt;p&gt;A forward 3D PBR pipeline: metallic-roughness Cook-Torrance lighting (GGX/Smith/Schlick), energy compensation, geometric specular anti-aliasing, and normal mapping. Image-based lighting from HDR environment maps with prefiltered specular and diffuse irradiance convolution. Shadows for all three light types — cascaded shadow maps (up to 4 cascades) for directional lights, plus spot and point (cubemap) shadows, each with hard and PCSS soft-shadow modes. A full HDR pipeline with multiple tonemap operators (Reinhard, ACES, AgX, and more), alongside a 2D batch renderer running in parallel.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

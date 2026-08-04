@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/projects/timefall/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/posts/papermod/papermod-installation/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,11 +17,32 @@
     <loc>/posts/markdown-syntax.fa/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/projects/arcade/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/projects/light_years/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/projects/cyber_defense/</loc>
+    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/projects/text_invaders/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/projects/battleship/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/projects/city_building/</loc>
+    <lastmod>2024-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/projects/thor/</loc>
+    <lastmod>2023-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/projects/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/c&#43;&#43;/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
@@ -32,9 +56,6 @@
     <loc>/categories/programming/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/sdl2/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,23 +65,11 @@
     <loc>/tags/pdcurses/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/text_invaders/</loc>
-    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/battleship/</loc>
-    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/cmake/</loc>
-    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/light_years/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/sfml/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/city_building/</loc>
-    <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/game-engines/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
@@ -71,23 +80,14 @@
     <loc>/tags/blueprints/</loc>
     <lastmod>2023-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/thor/</loc>
-    <lastmod>2023-07-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/c%23/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/opengl/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/timefall/</loc>
-    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/vulkan/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/cyber_defense/</loc>
-    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/networking/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>

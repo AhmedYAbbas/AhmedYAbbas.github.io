@@ -1,6 +1,7 @@
 ---
 title: 'Cyber Defense'
 date: "2023-06-09"
+weight: 6
 cover: 
     image: Images/cyber_defense.png
     alt: 'Cyber Defense'

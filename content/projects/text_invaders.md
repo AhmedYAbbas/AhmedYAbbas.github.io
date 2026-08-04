@@ -1,6 +1,7 @@
 ---
 title: 'Text Invaders'
 date: "2024-05-12"
+weight: 7
 cover: 
     image: Images/text_invaders.png
     alt: 'Text Invaders'

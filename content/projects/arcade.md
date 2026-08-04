@@ -1,6 +1,7 @@
 ---
 title: 'Arcade'
 date: "2024-06-11"
+weight: 4
 cover: 
     image: Images/arcade.png
     alt: 'Arcade'

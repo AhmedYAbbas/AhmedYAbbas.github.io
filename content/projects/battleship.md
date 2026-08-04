@@ -1,6 +1,7 @@
 ---
 title: 'Battleship'
 date: "2024-05-02"
+weight: 8
 cover: 
     image: Images/battleship.png
     alt: 'Battleship'

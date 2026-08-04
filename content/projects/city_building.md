@@ -1,6 +1,7 @@
 ---
 title: 'City Building'
 date: "2024-04-05"
+weight: 9
 cover: 
     image: Images/city_building.png
     alt: 'City Building'
