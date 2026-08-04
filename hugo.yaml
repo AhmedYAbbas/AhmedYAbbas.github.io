@@ -61,7 +61,7 @@ params:
   profileMode:
     enabled: true
     title: "Hi, I’m Ahmed Yasser" # optional default will be site title
-    subtitle: "A civil engineer turned game progammer by my love for video games and creating experiences. I'm also passionate about graphics and engine programming."
+    subtitle: "A civil engineer turned game programmer, driven by a love for games and the systems that power them. These days I'm focused on graphics and engine programming — building Timefall, a custom C++ (OpenGL/Vulkan) game engine, in my spare time."
     imageUrl: "Images/me1.jpeg" # optional
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
