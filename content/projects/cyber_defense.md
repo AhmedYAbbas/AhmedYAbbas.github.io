@@ -10,16 +10,18 @@ tags: ["C#", "Unity", "Networking", "Photon PUN 2"]
 categories: [Game Engines]
 ---
 
-# [Cyber Defense (GitHub)](https://github.com/AhmedYAbbas/Cyber-Defense/tree/Development)
-An online multiplayer tower defense game to raise awareness about different cybersecurity topics (Malware).
+# Cyber Defense
+
+An asymmetric 1v1 multiplayer tower-defense game built in Unity, developed with team Vanguardians as an ITI graduation project in partnership with EG-CERT. One player attacks with a roster of malware (Adware, Ransomware, Trojan Horse, Virus, Ghost), the other builds and upgrades towers along a grid to defend — sides swap each round, best of three wins.
+
+Built on Unity URP with real-time 1v1 multiplayer over Photon PUN2, NavMesh-driven malware pathing, a grid-based tower placement/upgrade system, an energy economy gating both sides' actions, and a guided interactive tutorial.
+
+My role: co-designed the game and helped write the GDD, implemented the networking logic, contributed to UI implementation, built out several malware special abilities, worked on lighting/post-processing/shaders, and optimized the game to hit 45fps on mobile.
 
 [![Watch the video](https://img.youtube.com/vi/4zejgNG3cjE/hqdefault.jpg)](https://www.youtube.com/embed/4zejgNG3cjE)
 
-# My Role
-The game is a team project and my detailed role within the team is as follows:
-- Co-designed the game and participated in writing the GDD.
-- Implemented the networking logic for the game.
-- Participated in the UI creation process and its implementation to make sure that it serves our vision.
-- Implemented the different malware special abilities like the adware's ads attack.
-- Enhanced the different visuals for the game (lighting, post processing, shaders, etc...).
-- Optimized the game to run on mobile devices at 45 fps.
+<!-- VISUAL: gameplay screenshot/GIF -->
+
+***
+
+[GitHub →](https://github.com/AhmedYAbbas/Cyber-Defense/tree/Development)
