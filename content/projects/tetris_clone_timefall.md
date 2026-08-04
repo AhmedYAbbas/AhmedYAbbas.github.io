@@ -16,7 +16,7 @@ A guideline-inspired Tetris implementation built in C# on top of [Timefall](/pro
 
 Implements the real ruleset: 7-bag randomizer, SRS rotation with wall/floor kicks, DAS/ARR movement tuning, lock delay, hold piece, a 5-piece next queue, ghost piece, and level-scaling gravity.
 
-![TetrisClone-Timefall gameplay](/Images/tetris_clone_timefall.png)
+![TetrisClone-Timefall gameplay](/Images/tetris_clone_timefall.gif)
 
 ***
 
