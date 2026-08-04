@@ -5,13 +5,14 @@ cover:
     image: Images/thor.png
     alt: 'Thor'
     caption: 'Thor'
-tags: ["Unreal Engine", "Blueprints"]
+tags: ["Unreal Engine", "Blueprints", "C++"]
 weight: 10
 categories: [Game Engines]
 ---
 
-# [Thor-Hammer-Mechanics (GitHub)](https://github.com/AhmedYAbbas/Thor-Hammer-Mechanics)
-Thor's hammer mechanics in unreal engine 5 using blueprint
+# Thor
+
+A third-person Unreal Engine 5.1 prototype recreating Thor's Mjolnir — throw, catch, recall, and ground-slam for an area attack, plus a focus/lock-on system and a Frost Giant enemy to fight against. Built primarily in Blueprints with a lightweight C++ actor class driving the hammer's flight logic.
 
 ## Demo
 [![Thor - Demo](https://img.youtube.com/vi/5X7XcN8TM74/0.jpg)](https://www.youtube.com/watch?v=5X7XcN8TM74 "Thor - Demo")
@@ -34,5 +35,9 @@ Thor's hammer mechanics in unreal engine 5 using blueprint
 ![Thor6](/Images/Thor6.png)
 ![Thor7](/Images/Thor7.png)
 
-## Giant (Enemy)
+## Frost Giant (Enemy)
 ![Enemy1](/Images/Enemy1.png)
+
+***
+
+[GitHub →](https://github.com/AhmedYAbbas/Thor-Hammer-Mechanics)
