@@ -6,26 +6,18 @@ cover:
     image: Images/light_years.png
     alt: 'Light Years'
     caption: 'Light Years'
-tags: ["C++", "SFML", "CMake"]
+tags: ["C++", "SFML", "Box2D", "CMake"]
 categories: [Programming]
 ---
 
-# [Light Years (GitHub)](https://github.com/AhmedYAbbas/Light-Years)
+# Light Years
 
-A space-shooter action game/game engine built with C++ and SFML.​
+A space-shooter built with a custom C++ engine (LightYearsCore) and SFML — an actor/world framework with timers, delegates, and a widget-based UI system, Box2D physics and collisions, parallax backgrounds, and particle VFX. A full gameplay loop with four enemy types (Vanguard, TwinBlade, Hexagon, UFO), a Chaos Stage, a Boss Stage, and a HUD tracking health, lives, and score.
 
 [![Watch the video](https://img.youtube.com/vi/yFh2rjWwgo4/hqdefault.jpg)](https://www.youtube.com/embed/yFh2rjWwgo4)
 
-***
-## Building the Project
-1. Clone the repository to your local machine.
-2. Navigate to the root directory of the project.
-3. Create a new directory named `build`.
-4. Open Command Prompt (CMD) and change the directory to the newly created `build` folder.
-5. In CMD, type the following command to build the project: `cmake -S .. -B .`
-6. Once the build is successful, you will find the vs solution in the `build` directory.
+<!-- VISUAL: gameplay GIF -->
+
 ***
 
-## Controls
-- WASD keys for movement.
-- 'Space' key for firing.
+[GitHub →](https://github.com/AhmedYAbbas/Light-Years)
