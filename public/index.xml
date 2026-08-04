@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1315/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Timefall</title>
@@ -29,6 +29,14 @@
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:1315/posts/papermod/papermod-installation/</guid>
       <description>Read aboout Install and Update instructions and sampled configuration templates</description>
+    </item>
+    <item>
+      <title>TetrisClone-Timefall</title>
+      <link>//localhost:1315/projects/tetris_clone_timefall/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1315/projects/tetris_clone_timefall/</guid>
+      <description>&lt;h1 id=&#34;tetrisclone-timefall&#34;&gt;TetrisClone-Timefall&lt;/h1&gt;
+&lt;p&gt;A guideline-inspired Tetris implementation built in C# on top of &lt;a href=&#34;//localhost:1315/projects/timefall/&#34;&gt;Timefall&lt;/a&gt; — created as a full, non-trivial game to stress-test the scripting layer end-to-end. Every gameplay system (piece spawning, movement, rotation, line clears, scoring) is pure C# scripting against the engine&amp;rsquo;s entity API. The rule during development: if a feature needed a new engine capability, that capability got added as a generic, reusable engine system — never a Tetris-specific workaround.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Features / Mods</title>

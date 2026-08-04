@@ -8,6 +8,9 @@
     <loc>/posts/papermod/papermod-installation/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/projects/tetris_clone_timefall/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/posts/papermod/papermod-features/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -41,25 +44,34 @@
     <loc>/</loc>
     <lastmod>2026-08-04T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/c%23/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/game-engines/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/programming/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/projects/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/timefall/</loc>
     <lastmod>2026-08-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/c&#43;&#43;/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/premake/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/programming/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/sdl2/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/pdcurses/</loc>
@@ -71,17 +83,11 @@
     <loc>/tags/sfml/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/game-engines/</loc>
-    <lastmod>2024-04-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/unreal-engine/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/blueprints/</loc>
     <lastmod>2023-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/c%23/</loc>
-    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/opengl/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>

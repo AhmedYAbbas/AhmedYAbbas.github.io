@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1315/categories/game-engines/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Timefall</title>
@@ -22,6 +22,14 @@
 &lt;p&gt;Timefall is a game engine built from scratch in C++, originally inspired by &lt;a href=&#34;https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT&#34;&gt;The Cherno&amp;rsquo;s Game Engine Series&lt;/a&gt; and developed well beyond it since. The goal: a Windows-first engine with AAA-grade rendering quality, an editor workflow comparable to commercial tools, and a C#-scripted gameplay layer.&lt;/p&gt;
 &lt;h2 id=&#34;renderer&#34;&gt;Renderer&lt;/h2&gt;
 &lt;p&gt;A forward 3D PBR pipeline: metallic-roughness Cook-Torrance lighting (GGX/Smith/Schlick), energy compensation, geometric specular anti-aliasing, and normal mapping. Image-based lighting from HDR environment maps with prefiltered specular and diffuse irradiance convolution. Shadows for all three light types — cascaded shadow maps (up to 4 cascades) for directional lights, plus spot and point (cubemap) shadows, each with hard and PCSS soft-shadow modes. A full HDR pipeline with multiple tonemap operators (Reinhard, ACES, AgX, and more), alongside a 2D batch renderer running in parallel.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TetrisClone-Timefall</title>
+      <link>//localhost:1315/projects/tetris_clone_timefall/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1315/projects/tetris_clone_timefall/</guid>
+      <description>&lt;h1 id=&#34;tetrisclone-timefall&#34;&gt;TetrisClone-Timefall&lt;/h1&gt;
+&lt;p&gt;A guideline-inspired Tetris implementation built in C# on top of &lt;a href=&#34;//localhost:1315/projects/timefall/&#34;&gt;Timefall&lt;/a&gt; — created as a full, non-trivial game to stress-test the scripting layer end-to-end. Every gameplay system (piece spawning, movement, rotation, line clears, scoring) is pure C# scripting against the engine&amp;rsquo;s entity API. The rule during development: if a feature needed a new engine capability, that capability got added as a generic, reusable engine system — never a Tetris-specific workaround.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cyber Defense</title>
