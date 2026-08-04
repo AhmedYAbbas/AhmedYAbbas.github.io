@@ -24,8 +24,7 @@ A full Dear ImGui editor: scene hierarchy, inspector, content browser, a viewpor
 
 To stress-test the engine end-to-end, I built a complete Tetris clone on top of it — every gameplay system implemented in pure C# script against the engine's API, with zero engine changes required.
 
-<!-- VISUAL: a PBR-lit scene showing IBL + shadows -->
-<!-- VISUAL: editor screenshot/GIF — viewport, scene hierarchy, profiler panel -->
+![Timefall - PBR lighting and shadows](/Images/timefall_pbr_scene.png)
 
 ***
 
