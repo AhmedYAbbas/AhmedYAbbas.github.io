@@ -24,4 +24,4 @@ My role: co-designed the game and helped write the GDD, implemented the networki
 
 ***
 
-[GitHub →](https://github.com/AhmedYAbbas/Cyber-Defense/tree/Development)
+[GitHub →](https://github.com/AhmedYAbbas/Cyber-Defense)
